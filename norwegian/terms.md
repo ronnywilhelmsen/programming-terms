@@ -1,10 +1,15 @@
 ## Programmeringsuttrykk på norsk
+Referanser og nettressurser til fornorskning av engelske fagord:
+http://i18n.skulelinux.no/nb/Fellesordl.eng-no.html
+
+Referanser og nettressurser til kompendium av engelske ord som skal oversettes:
+https://towardsdatascience.com/complete-data-engineers-vocabulary-87967e374fad
 
 Denne listen er et forsøk på å berike norske software-utvikleres norske vokabular.
 Den er også tenkt å brukes som supplement i undervisning for å gi studenter en referanse å bruke når foreleser bruker ukjente ord og uttrykk.
 
 Noen uttrykk i denne listen er bevisst beholdt på engelsk. 
-Disse uttrykkene er forsøkt linket til norske utgaver som opprinnelig forfatter ikke tror vil bli en del av språket til programmerere. Flere av disse uttrykkene er meget tvetydige på norsk. De er allikevel forsøkt å gjøre entydige i forhold til det engelske uttrykket ved å konkretisere i paragrafer. Eks. [Grensesnitt (programmering)](#grensnitt-programmering) for [Interface](#interface).
+Disse uttrykkene er forsøkt lenket til norske utgaver som opprinnelig forfatter ikke tror vil bli en del av språket til programmerere. Flere av disse uttrykkene er meget tvetydige på norsk. De er allikevel forsøkt å gjøre entydige i forhold til det engelske uttrykket ved å konkretisere i paragrafer. Eks. [Grensesnitt (programmering)](#grensnitt-programmering) for [Interface](#interface).
 
 God fornorskelse!
 
